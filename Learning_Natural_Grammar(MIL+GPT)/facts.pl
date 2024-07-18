@@ -1,0 +1,17 @@
+det(a).
+det(the).
+adj(big).
+adj(small).
+adj(nasty).
+noun(man).
+noun(dog).
+noun(house).
+noun(ball).
+verb(takes).
+verb(walks).
+verb(hits).
+prep(at).
+prep(to).
+prep(on).
+prep(in).
+prep(into).
